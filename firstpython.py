@@ -1,3 +1,5 @@
 #Display Output
 
-print("New Python File")
+x = "New Python File" 
+
+print(x)
